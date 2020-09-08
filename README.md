@@ -23,7 +23,7 @@ Hello, my name is Rafaela Oliveira and I'm a Junior Software Developer
 <img height="25" src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"> </img>
 
 
-- 📫 **How to reach me**: ...
+- 📫 **How to reach me** : ...
 
 
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaela.albaniza@gmail.com)
