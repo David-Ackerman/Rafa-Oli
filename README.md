@@ -7,7 +7,7 @@ Hello, my name is Rafaela Oliveira and I'm a Junior Software Developer
 - 🌱 I am currently improving knowledge Application Development using Kotlin, as well as learning JavaScript for creating applications, and also polishing concepts and practices of Spring Boot with Java.
 
 #### Languages and tools already experienced and improving:
-<img height="25" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white5"></img>
+<img height="25" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"></img>
 <img height="25" src="https://camo.githubusercontent.com/4249e852f14e86cf7cd636b15c041c93d2f0572b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532334637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"></img>
 
 
