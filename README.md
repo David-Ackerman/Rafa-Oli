@@ -26,19 +26,13 @@ Hello, my name is Rafaela Oliveira and I'm a Junior Software Developer
 - 📫 **How to reach me** : ...
 
 
-[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaela.albaniza@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaela.santos@aluno.uepb.edu.br)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-oliveira-95b7a91a6)
  [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rafaolive/)
  
  
 <img align="left" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=rafa-oli&show_icons=true&hide_border=true&count_private=true&theme=bear" />
 </p></br>
-
-
-
-
-
-
 
 
 
