@@ -12,7 +12,7 @@ Hello, my name is Rafaela Oliveira and I'm a Junior Software Developer
 
 
 
-<img height="25" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"></img>
 <img height="25" src="https://camo.githubusercontent.com/8ac1486e10b532a4ba682a552d376c7fc68e3e14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e672532302d2532333644423333462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465"></img>
 
 
