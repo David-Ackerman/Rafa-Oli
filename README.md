@@ -22,6 +22,8 @@ Hello, my name is Rafaela Oliveira and I'm a Junior Software Developer
 <img height="25" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"> </img>
 
+<img height="25" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"> </img>
 
 - 📫 **How to reach me** : ...
 
