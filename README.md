@@ -34,5 +34,6 @@ Hello, my name is Rafaela Oliveira and I'm a Junior Software Developer
 <img align="left" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=rafa-oli&show_icons=true&hide_border=true&count_private=true&theme=bear" />
 </p></br>
 
+
 <img align="right" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=rafa-oli&layout=compact&theme=bear" />
 </p></br>
