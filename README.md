@@ -26,5 +26,6 @@
  [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rafaolive/)
  
  
-<img align="center" style="border-radius: 4px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=rafa-oli&show_icons=true&hide_border=true&count_private=true&theme=bear" /></p></br><img align="center" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=rafa-oli&layout=compact&theme=bear" />
+<img img height="150" align="center" style="border-radius: 2px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=rafa-oli&show_icons=true&hide_border=true&count_private=true&theme=bear" ></img>
+<img img height="150" align="center" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=rafa-oli&layout=compact&theme=bear" />
 </p></br>
