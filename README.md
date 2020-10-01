@@ -3,9 +3,6 @@
 ### Hi there <img height="50" align="bottom" src="https://camo.githubusercontent.com/75dc1c8b7e5ab93cc6a6f22cdd58e8f8384245cc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" alt="projeto" />
 
 
-
-Hello, my name is Rafaela Oliveira and I'm a Junior Software Developer
-
 - 🌱 I am currently improving knowledge Application Development using Kotlin and Dart(Flutter), as well as learning JavaScript for creating applications, and also polishing concepts and practices of Spring Boot with Java.
 
 #### Languages and tools already experienced and improving:
@@ -23,9 +20,11 @@ Hello, my name is Rafaela Oliveira and I'm a Junior Software Developer
 
 <img height="25" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"> </img>
-
+<img align="right" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=rafa-oli&layout=compact&theme=bear" />
+</p></br>
 <img height="25" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"> </img>
+
 
 - 📫 **How to reach me** : ...
 
@@ -38,6 +37,3 @@ Hello, my name is Rafaela Oliveira and I'm a Junior Software Developer
 <img align="center" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=rafa-oli&show_icons=true&hide_border=true&count_private=true&theme=bear" />
 </p></br>
 
-
-<img align="center" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=rafa-oli&layout=compact&theme=bear" />
-</p></br>
