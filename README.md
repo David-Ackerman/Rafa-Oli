@@ -8,20 +8,12 @@
 #### Languages and tools already experienced and improving:
 <img height="25" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"></img>
 <img height="25" src="https://camo.githubusercontent.com/4249e852f14e86cf7cd636b15c041c93d2f0572b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532334637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"></img>
-
-
-
 <img height="25" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
 <img height="25" src="https://camo.githubusercontent.com/8ac1486e10b532a4ba682a552d376c7fc68e3e14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e672532302d2532333644423333462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465"></img>
-
-
 <img height="25" src="https://camo.githubusercontent.com/83329fb35b579a50bd5eb9553811e8ec71cd78cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742532302d2532333230323332612e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642"> </img>
  <img height="25" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> </img>
-
 <img height="25" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"> </img>
-<img align="right" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=rafa-oli&layout=compact&theme=bear" />
-</p></br>
 <img height="25" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"> </img>
 
@@ -36,4 +28,5 @@
  
 <img align="center" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=rafa-oli&show_icons=true&hide_border=true&count_private=true&theme=bear" />
 </p></br>
-
+<img align="right" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=rafa-oli&layout=compact&theme=bear" />
+</p></br>
