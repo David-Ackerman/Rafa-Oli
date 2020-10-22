@@ -21,7 +21,7 @@
 
 
 
-- 📫 **How to reach me** : ...
+  - 📫 **How to reach me** : ...
 
 
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaela.santos@aluno.uepb.edu.br)
