@@ -3,7 +3,7 @@
 ### Hi there <img height="50" align="bottom" src="https://camo.githubusercontent.com/75dc1c8b7e5ab93cc6a6f22cdd58e8f8384245cc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" alt="projeto" />
 
 
-- 🌱 I am currently improving knowledge Application Development using Kotlin and Dart(Flutter), as well as learning JavaScript for creating applications, and also polishing concepts and practices of Spring Boot with Java.
+- I am currently improving knowledge Application Development using Kotlin and Dart(Flutter), as well as learning JavaScript for creating applications, and also polishing concepts and practices of Spring Boot with Java.
 
 #### Languages and tools already experienced and improving:
 <img height="25" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"></img>
